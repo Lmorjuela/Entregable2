@@ -77,6 +77,10 @@
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     font-size: 1rem;
+    cursor: pointer;
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
 
+.weather__btn:hover{
+    background-color:#ffffff80;
+}
