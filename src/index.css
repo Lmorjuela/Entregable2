@@ -1,0 +1,30 @@
+/*---RESENT---*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Neuton', serif;
+    font-family: 'Roboto Serif', serif;
+}
+
+input, button{
+    font-family: inherit;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+button{
+    border: none;
+}
+
+img{
+    display: block;
+    width: 100%;
+}
