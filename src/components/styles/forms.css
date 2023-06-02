@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    gap: 5px;
+}
+
+.input{
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.search__btn{
+    background-color: transparent;
+    width: 30px;
+    cursor: pointer;
+}
+
+.search__btn:hover{
+    background-color: #ffffff99;
+}

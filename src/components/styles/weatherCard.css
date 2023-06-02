@@ -4,6 +4,8 @@
     border-radius: 0.8rem;
     width: 100%;
     max-width: 500px;
+    max-height: 450px;
+  
 }
 
 .weather__header{
@@ -57,7 +59,7 @@
 .weather__list-item{
     font-size: 1rem;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .weather__list-value{
