@@ -59,7 +59,7 @@
 .weather__list-item{
     font-size: 1rem;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .weather__list-value{
